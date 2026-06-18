@@ -1,0 +1,10 @@
+# Agent Configuration & Skills (Exclusion)
+.agents/
+AGENTS.md
+skills-lock.json
+
+# IDEs & System Files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
